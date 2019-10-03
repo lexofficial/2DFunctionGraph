@@ -40,11 +40,8 @@ ydreapta = [(0,300),(598,300)]
 
 pygame.draw.lines(screen, green, False, xdreapta, 3)
 pygame.draw.lines(screen, green, False, ydreapta, 3)
-
-
 pygame.draw.lines(screen, red, False, pointlist, 5)
 
 pygame.display.update()
-
 
 input()
