@@ -36,7 +36,7 @@ igrecunu = int(igrecunu)
 igrecdoi = int(igrecdoi)
 
 # Adjusting them so that they fit nicely in the middle of the graph
-# !!! 10 can be changed if you want ur graph to be able to display lines bigger than 30 units !!!
+# !!! 10 value can be changed if you want ur graph to be able to display lines bigger than 30 units !!!
 
 xone = 300 + icsunu * 10
 yone = 300 - igrecunu * 10
